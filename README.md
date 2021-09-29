@@ -1,3 +1,5 @@
+<Jiwon Hwang> <Computer Programming student> <Algonquin College> <hwan0033@algonquinlive.com>
+
 Description of entertainment Recommendation
 
 We are all having a hard time with a covid19.
