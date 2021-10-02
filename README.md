@@ -1,17 +1,26 @@
-<Jiwon Hwang> <Computer Programming student> <Algonquin College> <hwan0033@algonquinlive.com>
+Jiwon Hwang | hwan0033@algonquinlive.com
 
-Description of entertainment Recommendation
+Program name > an entertainment recommendation.
 
-We are all having a hard time with a covid19.
+Description >
 
-We spend all day long with technology. I am personally good at picking attractive entertainment, music, movie, cartoon.
- 
-This program is asking for your mood, and will recommend entertainment, based on your mood.
+Jiwon is good at picking good music and movie.
 
-Every code is based on Jiwon's brain and I want to collaborate with A designer's cartoons(I have a plan to collaborate with my friend studying in Australia).
+The program will ask for you "Are you in the good mood for music or movie?"
+If you answer to the question, the program will ask your mood in details. 
 
-This program is in-process.
+Engergetic | emotional | sexual
 
-I want to connect Database to the program to gather more objective information.
+(happy | sad | active, etc) -> in-progress.
 
- Everything is owned by Jiwon Hwang.
+Based on your mood, it will automatically open a randomly-selected browser. 
+Jiwon already saved the Youtube browser, using an array.
+
+Hope you enjoy jiwon's recommendation!
+
+/*
+* If you are interested in JavaFX, send an email to me.
+* We can discuss what to want, and we can collaborate together.
+* I'm good at making a story line, but still need to learn JavaFX.
+* We can help out each other.
+*/
