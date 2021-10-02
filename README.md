@@ -1,8 +1,7 @@
+# An entertainment recommendation.
 Jiwon Hwang | hwan0033@algonquinlive.com
 
-Program name > an entertainment recommendation.
-
-Description >
+Description |
 
 Jiwon is good at picking good music and movie.
 
