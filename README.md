@@ -18,9 +18,9 @@ Jiwon already saved the Youtube browser, using an array.
 
 Hope you enjoy jiwon's recommendation!
 
-/*
+
 If you are interested in JavaFX, send an email to me.
 We can discuss what to want, and we can collaborate together.
-I'm good at making a story line, but still need to learn JavaFX.
+I'm good at making a story, but still need to learn JavaFX.
 We can help out each other.
-*/
+
