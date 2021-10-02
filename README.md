@@ -4,6 +4,7 @@ Jiwon Hwang | hwan0033@algonquinlive.com
 Description |
 
 Jiwon is good at picking good music and movie.
+I strongly believe that Music has an irreplaceable power.
 
 The program will ask for you "Are you in the good mood for music or movie?"
 If you answer to the question, the program will ask your mood in details. 
