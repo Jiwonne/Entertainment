@@ -24,3 +24,5 @@ We can discuss what to want, and we can collaborate together.
 I'm good at making a story, but still need to learn JavaFX.
 We can help out each other.
 
+This program is managed by Jiwon Hwang.
+Also, I am happy for any feedback :)
