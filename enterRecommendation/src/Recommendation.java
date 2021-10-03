@@ -20,12 +20,6 @@ public class Recommendation extends UserInput {
 				System.out.println("Invalid");
 		} 
 		return null;
-
-		/*
-		 * The reason I deleted if statement is because this is useless
-		 * Instead of setting equalsIgnoreCase here,
-		 * I added toLowerCase() to String mood in UserInput class.
-		 */
 	}
 	
 	protected MovieList getMovieList() {

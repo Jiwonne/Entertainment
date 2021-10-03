@@ -38,7 +38,6 @@ public class UserInput {
 	}
 	
 	protected static void askingPreference(String userChoice) throws URISyntaxException, IOException {
-		
 		if(userChoice.equals(MUSIC)) {
 			System.out.println("\n" + "How's your feeling today?");
 			moodTypes();
