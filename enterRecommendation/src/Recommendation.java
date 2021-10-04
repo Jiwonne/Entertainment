@@ -7,15 +7,16 @@ public class Recommendation extends UserInput {
 	Random random = new Random();
 
 	protected URI getPlayList(String mood) throws URISyntaxException  {
+
 		switch(mood) {
 		case ENERGETIC:
-			new URI(PlayList.energetic()); break;
+			return new URI(PlayList.energetic());
 		case EMOTIONAL:
-			new URI(PlayList.emotional()); break;
+			return new URI(PlayList.emotional());
 		case SEXY:
-			new URI(PlayList.sexual()); break;
+			return new URI(PlayList.sexual());
 		case PUMPED:
-			new URI(PlayList.pumped()); break;
+			return new URI(PlayList.pumped());
 		default:
 				System.out.println("Invalid");
 		} 
