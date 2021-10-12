@@ -45,8 +45,7 @@ public class UserInput {
 			/*
 			 * need to fix it without a case-sensitive
 			 */
-			
-			System.out.println("WARNING : THIS RESPONSE IS A CASE-SENSITIVE");
+
 			String mood = input.nextLine().toLowerCase();
 			System.out.println("Today's your mood is " + mood + "\n");
 			
